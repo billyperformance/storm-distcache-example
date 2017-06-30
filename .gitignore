@@ -2,3 +2,5 @@
 **/*.iml
 **/target/
 **/gen-java/
+**/dependency-reduced-pom.xml
+.env
